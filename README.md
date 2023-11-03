@@ -2,7 +2,9 @@ Hi, I’m Rishav and I empower teams by fostering **scalable growth** with a clo
 
 I’m based in Edinburgh, UK (UTC +0) where I’m engaged in a **remote, permanent role** as a Senior DevOps Engineer of AWS Cloud Platforms at @tucows: a publicly traded internet services and telecommunications business.
 
-When I’m not in front of a laptop, you can find me tramping o’er the wee crags of Scotland, in search of the elusive sunshine. Happy to chat all things **cloud engineering**, so feel free to connect: www.linkedin.com/in/rishavdhar 🖇️
+When I’m not in front of a laptop, you can find me tramping o’er the wee crags of Scotland, in search of the elusive sunshine. Happy to chat all things **cloud engineering**, so feel free to connect: <www.linkedin.com/in/rishavdhar> 🖇️
+
+This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
 <!--
 **rdhar/rdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
