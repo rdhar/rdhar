@@ -1,22 +1,9 @@
-Hi, I’m Rishav and I empower teams by fostering **scalable growth** with a close feedback loop – backed by automation from code to clients. I can best express this with DevOps processes: bridging the gap between cloud-based solutions and grounded perception from 6+ years of experience of platform engineering.
+Principal Engineer of Platform DevOps at Wavelo (Tucows) | UK Remote (GMT)
 
-I’m based in Edinburgh, UK (GMT) where I’m engaged in a **remote, permanent role** as a Senior DevOps Engineer of AWS Cloud Platforms at @tucows: a publicly traded internet services and telecommunications business.
+I build secure, self-service infrastructure platforms and CI/CD systems that tighten the feedback loop from code to cloud to customer. With 7+ years spanning platform engineering, SRE, and DevOps across telecom, FinTech, aerospace, and legal tech; I specialise in helping multidisciplinary teams ship faster while improving reliability, operational efficiency, and developer experience.
 
-When I’m not in front of a laptop, you can find me tramping o’er the wee crags of Scotland, in search of the elusive sunshine. Happy to chat all things **cloud engineering**, so feel free to connect: <www.linkedin.com/in/rishavdhar> 🖇️
+Day to day, that means: Terraform and GitOps for infrastructure as code; GitHub Actions for CI/CD pipelines; OpenTelemetry, Grafana, and Prometheus for observability; Policy as Code and zero-trust security for compliance; and FinOps discipline to keep cloud spend accountable. I've led migrations that saved $850k in annual licensing, built compliance platforms from scratch, and spoken at conferences on security and governance in infrastructure orchestration.
 
-This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
+I care about developer experience as much as system reliability. Whether it's defining an internal developer platform roadmap, mentoring engineers on DevSecOps best practices, or writing about merge queues and DORA metrics; I want the teams I work with to move confidently and autonomously.
 
-<!--
-**rdhar/rdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, you'll find me hiking the crags of Scotland in search of rare sunshine. Always happy to talk platform engineering, cloud architecture, or open-source tooling. 📎
